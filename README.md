@@ -1,10 +1,10 @@
-# 💻 Sistema de Treinamento em Tecnologia
+# Sistema de Treinamento em Tecnologia
 
 Sistema em Java desenvolvido para gerenciar e controlar treinamentos de capacitação técnica de programadores em empresas, aplicando conceitos avançados de **Programação Orientada a Objetos (POO)** como **Herança**, **Polimorfismo**, **Encapsulamento** e regras de negócio complexas.
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Utilizados
+## Tecnologias e Conceitos Utilizados
 
 - **Linguagem:** Java (JDK 17+)
 - **Estrutura de Dados:** `ArrayList` para controle de alunos matriculados
