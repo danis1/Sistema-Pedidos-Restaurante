@@ -3,6 +3,10 @@
 Sistema em Java desenvolvido para gerenciar e controlar treinamentos de capacitação técnica de programadores em empresas, aplicando conceitos avançados de **Programação Orientada a Objetos (POO)** como **Herança**, **Polimorfismo**, **Encapsulamento** e regras de negócio complexas.
 
 ---
+##  Contexto Acadêmico
+
+Projeto acadêmico desenvolvido para a avaliação **P2** da disciplina de **Técnica de Programação I** (2º Semestre), do curso de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande**.
+## Estrutura do Projeto
 
 ## Tecnologias e Conceitos Utilizados
 
@@ -28,10 +32,6 @@ Sistema em Java desenvolvido para gerenciar e controlar treinamentos de capacita
 - **`TreinamentoOnline`:** Herda da classe base e gerencia acessos virtuais (`linkAcesso`).
 
 ---
-##  Contexto Acadêmico
-
-Projeto acadêmico desenvolvido para a avaliação **P2** da disciplina de **Técnica de Programação I** (2º Semestre), do curso de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande**.
-## Estrutura do Projeto
 
 ```text
 src/
